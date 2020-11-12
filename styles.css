@@ -1,0 +1,80 @@
+
+
+#title{
+    background-color: #ff9f00;
+
+}
+
+
+.container-fluid {
+  padding: 3% 15% 5%;
+}
+
+.logo{
+  width: 20%;
+}
+
+.hej{
+  padding: 50px 50px 50px 50px;
+}
+
+.intro-text{
+  color:brown;
+}
+
+.title-image{
+  width: 70%;
+}
+
+nav .navbar-nav li a{
+  color: brown !important;
+  }
+
+
+  /* Testimonials */
+  #testimonials {
+    text-align: center;
+    background-color: #33F1FF;
+    color: black;
+  }
+
+
+
+  .carousel-item {
+    padding: 7% 15%;
+  }
+
+  #press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+  }
+
+  .press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+  }
+
+.book-carousel{
+  padding-bottom: 50px;
+}
+
+
+
+  /* Footer */
+  #footer {
+    background-color: #ff9f00;
+    padding: 7% 15%;
+    text-align: center;
+
+  }
+
+  .social-media {
+    text-align: center;
+    padding: 1% 1%;
+  }
+
+  .footer-p {
+    font-family: "Montserrat-think", sans-serif;
+    color: brown;
+  }
